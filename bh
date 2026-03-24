@@ -1,0 +1,63 @@
+#include<iostream.h>
+
+#include<conio.h>
+
+class item
+
+{
+
+static int count;
+
+int number;
+
+public:
+
+};
+
+void getdata(int a)
+
+}
+
+count++;
+
+number=a;
+
+void getcount()
+
+{
+
+cout<<"count is"<<count;
+
+}
+
+int item::count;//decleration
+
+int main()
+
+{
+
+a.getcount();
+
+item a,b,c;
+
+b.getcount();
+
+c.getcount();
+
+a.getdata(100);
+
+b.getdata(200);
+
+c.getdata(300);
+
+cout<<"After reading data";
+
+a.getcount();
+
+b.getcount();
+
+}
+
+c.getcount();
+
+return 0;
